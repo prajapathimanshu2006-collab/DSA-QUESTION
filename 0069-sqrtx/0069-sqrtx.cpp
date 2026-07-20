@@ -9,7 +9,7 @@ public:
         {
             return 2;
         }
-        for(double i=0;i<x/2;i++)
+        for(long i=0;i<x/2;i++)
         {
             if(x==i*i)
             {
