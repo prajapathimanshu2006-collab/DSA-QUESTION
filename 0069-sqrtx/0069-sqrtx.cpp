@@ -5,11 +5,11 @@ public:
         {
             return 1;
         }
-        if(x==4 || x==5)
+        if(x==4 || x==5 || x==6 || x==7 || x==8)
         {
             return 2;
         }
-        for(long i=0;i<x/2;i++)
+        for(long i=0;i<=x/3;i++)
         {
             if(x==i*i)
             {
